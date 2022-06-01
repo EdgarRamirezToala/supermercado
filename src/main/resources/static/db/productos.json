@@ -1,0 +1,8 @@
+{
+	"1":{"id":1,"nombre":"Television Hisense","descripcion":"sint hic doloribus consequatur", "precio": 5999.0},
+	"2":{"id":2,"nombre":"Dell Alienware","descripcion":"voluptatem cumque tenetur consequatur", "precio": 39099.0},
+	"3":{"id":3,"nombre":"Consola PS5","descripcion":"expedita ipsum nemo quia explicabo", "precio": 13999.0},
+	"4":{"id":4,"nombre":"Moto 6","descripcion":"tempore cumque quae est et", "precio": 6800.0},
+	"5":{"id":5,"nombre":"iPhone 13","descripcion":"sint hic doloribus consequatur eos non id", "precio": 21000.0},
+	"6":{"id":6,"nombre":"Guitarra Gibson","descripcion":"rerum ut id enim velit est perferendis", "precio": 19299.0}
+}
